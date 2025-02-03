@@ -10,6 +10,7 @@ Um projeto simples e interativo para realizar sorteios de nomes, ideal para orga
 
 
 ## Tabela de Conteúdos
+- [Como Instalar](#Como-Instalar).
 - [Como Usar](#Como-usar-e-demonstração-da-aplicação)
 - [Funcionalidades](#funcionalidades)
 - [Como funciona](#Como-funciona).
@@ -17,7 +18,15 @@ Um projeto simples e interativo para realizar sorteios de nomes, ideal para orga
 - [Tecnologias Utilizadas](#Tecnologias-utilizadas)
 - [Como Contribuir](#Como-contribuir)
 
-  
+## Instalação
+Clone o repositório:
+
+git clone https://github.com//Amigo-Secreto.git
+Acesse o diretório do projeto:
+
+cd amigo-secreto
+Abra o arquivo index.html no seu navegador para usar a aplicação.
+
 ## Como usar e demonstração da aplicação
 A aplicação é intuitiva, fácil de usar e conta com uma verificação de campo caso o usuário tente adicionar um nome com o campo vazio, desenvolvida para proporcionar uma experiência simples e eficiente. Veja como funciona:
 
