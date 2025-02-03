@@ -27,7 +27,7 @@ Um projeto simples e interativo para realizar sorteios de nomes, ideal para orga
 1. Clone o repositório:
    git clone (https://github.com/Jesse0110201/Sorteio-Amigo-Secreto)
 2. Acesse o diretório do projeto:
-   cd amigo-secreto
+   cd Sorteio-Amigo-Secreto
 3. Abra o arquivo index.html no seu navegador para usar a aplicação.
 
 ## Como usar e demonstração da aplicação
