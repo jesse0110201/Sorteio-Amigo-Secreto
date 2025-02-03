@@ -10,6 +10,7 @@ Um projeto simples e interativo para realizar sorteios de nomes, ideal para orga
 
 
 ## Tabela de Conteúdos
+- [Link Deploy da Aplicação](Link-Deploy).
 - [Como Instalar](#Instalação).
 - [Como Usar](#Como-usar-e-demonstração-da-aplicação)
 - [Funcionalidades](#funcionalidades)
@@ -18,6 +19,9 @@ Um projeto simples e interativo para realizar sorteios de nomes, ideal para orga
 - [Tecnologias Utilizadas](#Tecnologias-utilizadas)
 - [Autor do Projeto](#Autor-do-Projeto).
 - [Como Contribuir](#Como-contribuir)
+
+## Link Deploy
+* https://sorteio-amigo-secreto-tau.vercel.app/
 
 ## Instalação
 1. Clone o repositório:
