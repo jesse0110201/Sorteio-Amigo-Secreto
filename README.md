@@ -16,16 +16,15 @@ Um projeto simples e interativo para realizar sorteios de nomes, ideal para orga
 - [Como funciona](#Como-funciona).
 - [Funções do JavaScript](#Funções-do-Javascript).
 - [Tecnologias Utilizadas](#Tecnologias-utilizadas)
+- [Autor do Projeto](#Autor-do-Projeto).
 - [Como Contribuir](#Como-contribuir)
 
 ## Instalação
-Clone o repositório:
-
-git clone https://github.com//Amigo-Secreto.git
-Acesse o diretório do projeto:
-
-cd amigo-secreto
-Abra o arquivo index.html no seu navegador para usar a aplicação.
+1. Clone o repositório:
+   git clone (https://github.com/Jesse0110201/Sorteio-Amigo-Secreto)
+2. Acesse o diretório do projeto:
+   cd amigo-secreto
+3. Abra o arquivo index.html no seu navegador para usar a aplicação.
 
 ## Como usar e demonstração da aplicação
 A aplicação é intuitiva, fácil de usar e conta com uma verificação de campo caso o usuário tente adicionar um nome com o campo vazio, desenvolvida para proporcionar uma experiência simples e eficiente. Veja como funciona:
@@ -78,6 +77,13 @@ A aplicação é intuitiva, fácil de usar e conta com uma verificação de camp
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização e design responsivo.
 - **JavaScript**: Lógica de sorteio e validação de entrada.
+
+## Autor do Projeto
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/42849595?v=4" width=115><br><sub>Jessé Marcos</sub>](https://github.com/jesse0110201) |
+| :---: |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/jess%C3%A9-marcos-b20135162)])
+
 
 ## Como Contribuir
 1. Faça um fork do projeto.
