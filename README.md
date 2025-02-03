@@ -82,7 +82,7 @@ A aplicação é intuitiva, fácil de usar e conta com uma verificação de camp
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/42849595?v=4" width=115><br><sub>Jessé Marcos</sub>](https://github.com/jesse0110201) |
 | :---: |
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/jess%C3%A9-marcos-b20135162)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jess%C3%A9-marcos-b20135162))
 
 
 ## Como Contribuir
