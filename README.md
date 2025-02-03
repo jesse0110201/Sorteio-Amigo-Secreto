@@ -10,7 +10,7 @@ Um projeto simples e interativo para realizar sorteios de nomes, ideal para orga
 
 
 ## Tabela de Conteúdos
-- [Como Instalar](#Como-Instalar).
+- [Como Instalar](#Instalação).
 - [Como Usar](#Como-usar-e-demonstração-da-aplicação)
 - [Funcionalidades](#funcionalidades)
 - [Como funciona](#Como-funciona).
