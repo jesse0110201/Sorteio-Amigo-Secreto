@@ -16,7 +16,7 @@ Um projeto simples e interativo para realizar sorteios de nomes, ideal para orga
 - [Funções do JavaScript](#Funções-do-Javascript).
 - [Tecnologias Utilizadas](#Tecnologias-utilizadas)
 - [Como Contribuir](#Como-contribuir)
-- [Licença](#Licença)
+
   
 ## Como usar e demonstração da aplicação
 A aplicação é intuitiva, fácil de usar e conta com uma verificação de campo caso o usuário tente adicionar um nome com o campo vazio, desenvolvida para proporcionar uma experiência simples e eficiente. Veja como funciona:
